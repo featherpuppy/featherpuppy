@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+I am an undergraduate student in computer science at UNSW! I also really like physics, ecology, palaeontology, philosophy, art, and the list is endless.
+I also have a Diploma in Science from the University of New England (Australia) where I mostly did classes in palaeobiology.
+
+I am new to GitHub and am still figuring out how to navigate and use it properly.
+I will probably update this and make it better later.
 
 <!--
 **featherpuppy/featherpuppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
